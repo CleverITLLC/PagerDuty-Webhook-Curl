@@ -4,6 +4,4 @@ This is a Container designed to kick PagerDuty ticket on-demamnd (single run) wi
 
 # IMPORTANT
 
-Thanks OSKAR for your docummentation
-
-https://event-driven.io/en/how_to_buid_and_push_docker_image_with_github_actions/
+DockerHub URL: https://hub.docker.com/repository/docker/cleveritllc/pagerduty-webhook
